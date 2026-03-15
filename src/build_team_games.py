@@ -14,7 +14,7 @@ def main():
 
     rows = []
     for _, r in df.iterrows():
-        # Home row
+        #Home team row
         rows.append({
             "game_id": r["game_id"],
             "game_date": r["game_date"],
@@ -27,7 +27,7 @@ def main():
             "opp_pts": r["away_pts"],
             "win": 1 if r["home_pts"] > r["away_pts"] else 0
         })
-        # Away row
+        #Away team row
         rows.append({
             "game_id": r["game_id"],
             "game_date": r["game_date"],
