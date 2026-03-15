@@ -9,7 +9,7 @@ A Python script collects NBA game data from the BALLDONTLIE API and appends the 
 Analysis:
 The collected data is analyzed using Python and Jupyter Notebook to compare team performance in different scheduling situations, such as back-to-back games and games played with more rest.
 
-Tools Used
+Tools Used:
 Python
 Pandas
 Requests
@@ -18,7 +18,7 @@ Jupyter Notebook
 Visual Studio Code
 GitHub
 
-Project Structure
+Project Structure:
 data/
   raw/
   processed/
