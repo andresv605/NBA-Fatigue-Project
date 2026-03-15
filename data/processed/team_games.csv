@@ -1,0 +1,391 @@
+game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts,opp_pts,win
+18447569,2026-02-07,1,Atlanta Hawks,4,Charlotte Hornets,HOME,119,126,0
+18447612,2026-02-19,1,Atlanta Hawks,23,Philadelphia 76ers,AWAY,117,107,1
+18447623,2026-02-20,1,Atlanta Hawks,16,Miami Heat,HOME,97,128,0
+18447636,2026-02-22,1,Atlanta Hawks,3,Brooklyn Nets,HOME,115,104,1
+18447650,2026-02-24,1,Atlanta Hawks,30,Washington Wizards,HOME,119,98,1
+18447668,2026-02-26,1,Atlanta Hawks,30,Washington Wizards,HOME,126,96,1
+18447691,2026-03-01,1,Atlanta Hawks,25,Portland Trail Blazers,HOME,135,101,1
+18447715,2026-03-04,1,Atlanta Hawks,17,Milwaukee Bucks,AWAY,131,113,1
+18447735,2026-03-07,1,Atlanta Hawks,23,Philadelphia 76ers,HOME,125,116,1
+18447757,2026-03-10,1,Atlanta Hawks,7,Dallas Mavericks,HOME,124,112,1
+18447774,2026-03-12,1,Atlanta Hawks,3,Brooklyn Nets,HOME,108,97,1
+18447788,2026-03-14,1,Atlanta Hawks,17,Milwaukee Bucks,HOME,122,99,1
+18447617,2026-02-19,2,Boston Celtics,10,Golden State Warriors,AWAY,121,110,1
+18447641,2026-02-22,2,Boston Celtics,14,Los Angeles Lakers,AWAY,111,89,1
+18447657,2026-02-24,2,Boston Celtics,24,Phoenix Suns,AWAY,97,81,1
+18447665,2026-02-25,2,Boston Celtics,8,Denver Nuggets,AWAY,84,103,0
+18447677,2026-02-27,2,Boston Celtics,3,Brooklyn Nets,HOME,148,111,1
+18447692,2026-03-01,2,Boston Celtics,23,Philadelphia 76ers,HOME,114,98,1
+18447698,2026-03-02,2,Boston Celtics,17,Milwaukee Bucks,AWAY,108,81,1
+18447712,2026-03-04,2,Boston Celtics,4,Charlotte Hornets,HOME,89,118,0
+18447726,2026-03-06,2,Boston Celtics,7,Dallas Mavericks,HOME,120,100,1
+18447739,2026-03-08,2,Boston Celtics,6,Cleveland Cavaliers,AWAY,109,98,1
+18447760,2026-03-10,2,Boston Celtics,27,San Antonio Spurs,AWAY,116,125,0
+18447777,2026-03-12,2,Boston Celtics,21,Oklahoma City Thunder,AWAY,102,104,0
+18447789,2026-03-14,2,Boston Celtics,30,Washington Wizards,HOME,111,100,1
+18447565,2026-02-07,3,Brooklyn Nets,30,Washington Wizards,HOME,127,113,1
+18447611,2026-02-19,3,Brooklyn Nets,6,Cleveland Cavaliers,AWAY,84,112,0
+18447626,2026-02-20,3,Brooklyn Nets,21,Oklahoma City Thunder,AWAY,86,105,0
+18447636,2026-02-22,3,Brooklyn Nets,1,Atlanta Hawks,AWAY,104,115,0
+18447651,2026-02-24,3,Brooklyn Nets,7,Dallas Mavericks,HOME,114,123,0
+18447669,2026-02-26,3,Brooklyn Nets,27,San Antonio Spurs,HOME,110,126,0
+18447677,2026-02-27,3,Brooklyn Nets,2,Boston Celtics,AWAY,111,148,0
+18447687,2026-03-01,3,Brooklyn Nets,6,Cleveland Cavaliers,HOME,102,106,0
+18447704,2026-03-03,3,Brooklyn Nets,16,Miami Heat,AWAY,98,124,0
+18447719,2026-03-05,3,Brooklyn Nets,16,Miami Heat,AWAY,110,126,0
+18447734,2026-03-07,3,Brooklyn Nets,9,Detroit Pistons,AWAY,107,105,1
+18447750,2026-03-09,3,Brooklyn Nets,15,Memphis Grizzlies,HOME,126,115,1
+18447755,2026-03-10,3,Brooklyn Nets,9,Detroit Pistons,HOME,100,138,0
+18447774,2026-03-12,3,Brooklyn Nets,1,Atlanta Hawks,AWAY,97,108,0
+18447787,2026-03-14,3,Brooklyn Nets,23,Philadelphia 76ers,AWAY,97,104,0
+18447569,2026-02-07,4,Charlotte Hornets,1,Atlanta Hawks,AWAY,126,119,1
+18447610,2026-02-19,4,Charlotte Hornets,11,Houston Rockets,HOME,101,105,0
+18447620,2026-02-20,4,Charlotte Hornets,6,Cleveland Cavaliers,HOME,113,118,0
+18447640,2026-02-22,4,Charlotte Hornets,30,Washington Wizards,AWAY,129,112,1
+18447654,2026-02-24,4,Charlotte Hornets,5,Chicago Bulls,AWAY,131,99,1
+18447666,2026-02-26,4,Charlotte Hornets,12,Indiana Pacers,AWAY,133,109,1
+18447681,2026-02-28,4,Charlotte Hornets,25,Portland Trail Blazers,HOME,109,93,1
+18447701,2026-03-03,4,Charlotte Hornets,7,Dallas Mavericks,HOME,117,90,1
+18447712,2026-03-04,4,Charlotte Hornets,2,Boston Celtics,AWAY,118,89,1
+18447727,2026-03-06,4,Charlotte Hornets,16,Miami Heat,HOME,120,128,0
+18447746,2026-03-08,4,Charlotte Hornets,24,Phoenix Suns,AWAY,99,111,0
+18447762,2026-03-10,4,Charlotte Hornets,25,Portland Trail Blazers,AWAY,103,101,1
+18447769,2026-03-11,4,Charlotte Hornets,26,Sacramento Kings,AWAY,117,109,1
+18447791,2026-03-14,4,Charlotte Hornets,27,San Antonio Spurs,AWAY,102,115,0
+18447570,2026-02-07,5,Chicago Bulls,8,Denver Nuggets,HOME,120,136,0
+18447615,2026-02-19,5,Chicago Bulls,28,Toronto Raptors,HOME,101,110,0
+18447632,2026-02-21,5,Chicago Bulls,9,Detroit Pistons,HOME,110,126,0
+18447643,2026-02-22,5,Chicago Bulls,20,New York Knicks,HOME,99,105,0
+18447654,2026-02-24,5,Chicago Bulls,4,Charlotte Hornets,HOME,99,131,0
+18447671,2026-02-26,5,Chicago Bulls,25,Portland Trail Blazers,HOME,112,121,0
+18447688,2026-03-01,5,Chicago Bulls,17,Milwaukee Bucks,HOME,120,97,1
+18447707,2026-03-03,5,Chicago Bulls,21,Oklahoma City Thunder,HOME,108,116,0
+18447723,2026-03-05,5,Chicago Bulls,24,Phoenix Suns,AWAY,105,103,1
+18447748,2026-03-08,5,Chicago Bulls,26,Sacramento Kings,AWAY,110,126,0
+18447761,2026-03-10,5,Chicago Bulls,10,Golden State Warriors,AWAY,130,124,1
+18447778,2026-03-12,5,Chicago Bulls,14,Los Angeles Lakers,AWAY,130,142,0
+18447786,2026-03-13,5,Chicago Bulls,13,LA Clippers,AWAY,108,119,0
+18447574,2026-02-07,6,Cleveland Cavaliers,26,Sacramento Kings,AWAY,132,126,1
+18447611,2026-02-19,6,Cleveland Cavaliers,3,Brooklyn Nets,HOME,112,84,1
+18447620,2026-02-20,6,Cleveland Cavaliers,4,Charlotte Hornets,AWAY,118,113,1
+18447635,2026-02-22,6,Cleveland Cavaliers,21,Oklahoma City Thunder,AWAY,113,121,0
+18447653,2026-02-24,6,Cleveland Cavaliers,20,New York Knicks,HOME,109,94,1
+18447664,2026-02-25,6,Cleveland Cavaliers,17,Milwaukee Bucks,AWAY,116,118,0
+18447676,2026-02-27,6,Cleveland Cavaliers,9,Detroit Pistons,AWAY,119,122,0
+18447687,2026-03-01,6,Cleveland Cavaliers,3,Brooklyn Nets,AWAY,106,102,1
+18447702,2026-03-03,6,Cleveland Cavaliers,9,Detroit Pistons,HOME,113,109,1
+18447739,2026-03-08,6,Cleveland Cavaliers,2,Boston Celtics,HOME,98,109,0
+18447749,2026-03-09,6,Cleveland Cavaliers,23,Philadelphia 76ers,HOME,115,101,1
+18447765,2026-03-11,6,Cleveland Cavaliers,22,Orlando Magic,AWAY,122,128,0
+18447783,2026-03-13,6,Cleveland Cavaliers,7,Dallas Mavericks,AWAY,138,105,1
+18447567,2026-02-07,7,Dallas Mavericks,27,San Antonio Spurs,AWAY,125,138,0
+18447624,2026-02-20,7,Dallas Mavericks,18,Minnesota Timberwolves,AWAY,111,122,0
+18447639,2026-02-22,7,Dallas Mavericks,12,Indiana Pacers,AWAY,134,130,1
+18447651,2026-02-24,7,Dallas Mavericks,3,Brooklyn Nets,AWAY,123,114,1
+18447672,2026-02-26,7,Dallas Mavericks,26,Sacramento Kings,HOME,121,130,0
+18447679,2026-02-27,7,Dallas Mavericks,15,Memphis Grizzlies,HOME,105,124,0
+18447694,2026-03-01,7,Dallas Mavericks,21,Oklahoma City Thunder,HOME,87,100,0
+18447701,2026-03-03,7,Dallas Mavericks,4,Charlotte Hornets,AWAY,90,117,0
+18447717,2026-03-05,7,Dallas Mavericks,22,Orlando Magic,AWAY,114,115,0
+18447726,2026-03-06,7,Dallas Mavericks,2,Boston Celtics,AWAY,100,120,0
+18447742,2026-03-08,7,Dallas Mavericks,28,Toronto Raptors,AWAY,92,122,0
+18447757,2026-03-10,7,Dallas Mavericks,1,Atlanta Hawks,AWAY,112,124,0
+18447929,2026-03-12,7,Dallas Mavericks,15,Memphis Grizzlies,AWAY,120,112,1
+18447783,2026-03-13,7,Dallas Mavericks,6,Cleveland Cavaliers,HOME,105,138,0
+18447570,2026-02-07,8,Denver Nuggets,5,Chicago Bulls,AWAY,136,120,1
+18447619,2026-02-19,8,Denver Nuggets,13,LA Clippers,AWAY,114,115,0
+18447628,2026-02-20,8,Denver Nuggets,25,Portland Trail Blazers,AWAY,157,103,1
+18447638,2026-02-22,8,Denver Nuggets,10,Golden State Warriors,AWAY,117,128,0
+18447665,2026-02-25,8,Denver Nuggets,2,Boston Celtics,HOME,103,84,1
+18447680,2026-02-27,8,Denver Nuggets,21,Oklahoma City Thunder,AWAY,121,127,0
+18447689,2026-03-01,8,Denver Nuggets,18,Minnesota Timberwolves,HOME,108,117,0
+18447699,2026-03-02,8,Denver Nuggets,29,Utah Jazz,AWAY,128,125,1
+18447724,2026-03-05,8,Denver Nuggets,14,Los Angeles Lakers,HOME,120,113,1
+18447729,2026-03-06,8,Denver Nuggets,20,New York Knicks,HOME,103,142,0
+18447751,2026-03-09,8,Denver Nuggets,21,Oklahoma City Thunder,AWAY,126,129,0
+18447768,2026-03-11,8,Denver Nuggets,11,Houston Rockets,HOME,129,93,1
+18447776,2026-03-12,8,Denver Nuggets,27,San Antonio Spurs,AWAY,136,131,1
+18447792,2026-03-14,8,Denver Nuggets,14,Los Angeles Lakers,AWAY,125,127,0
+18447614,2026-02-19,9,Detroit Pistons,20,New York Knicks,AWAY,126,111,1
+18447632,2026-02-21,9,Detroit Pistons,5,Chicago Bulls,AWAY,126,110,1
+18447646,2026-02-23,9,Detroit Pistons,27,San Antonio Spurs,HOME,103,114,0
+18447660,2026-02-25,9,Detroit Pistons,21,Oklahoma City Thunder,HOME,124,116,1
+18447676,2026-02-27,9,Detroit Pistons,6,Cleveland Cavaliers,HOME,122,119,1
+18447693,2026-03-01,9,Detroit Pistons,22,Orlando Magic,AWAY,106,92,1
+18447702,2026-03-03,9,Detroit Pistons,6,Cleveland Cavaliers,AWAY,109,113,0
+18447722,2026-03-05,9,Detroit Pistons,27,San Antonio Spurs,AWAY,106,121,0
+18447734,2026-03-07,9,Detroit Pistons,3,Brooklyn Nets,HOME,105,107,0
+18447741,2026-03-08,9,Detroit Pistons,16,Miami Heat,AWAY,110,121,0
+18447755,2026-03-10,9,Detroit Pistons,3,Brooklyn Nets,AWAY,138,100,1
+18447771,2026-03-12,9,Detroit Pistons,23,Philadelphia 76ers,HOME,131,109,1
+18447779,2026-03-13,9,Detroit Pistons,15,Memphis Grizzlies,HOME,126,110,1
+18447571,2026-02-07,10,Golden State Warriors,14,Los Angeles Lakers,AWAY,99,105,0
+18447617,2026-02-19,10,Golden State Warriors,2,Boston Celtics,HOME,110,121,0
+18447638,2026-02-22,10,Golden State Warriors,8,Denver Nuggets,HOME,128,117,1
+18447656,2026-02-24,10,Golden State Warriors,19,New Orleans Pelicans,AWAY,109,113,0
+18447662,2026-02-25,10,Golden State Warriors,15,Memphis Grizzlies,AWAY,133,112,1
+18447684,2026-02-28,10,Golden State Warriors,14,Los Angeles Lakers,HOME,101,129,0
+18447700,2026-03-02,10,Golden State Warriors,13,LA Clippers,HOME,101,114,0
+18447720,2026-03-05,10,Golden State Warriors,11,Houston Rockets,AWAY,115,113,1
+18447738,2026-03-07,10,Golden State Warriors,21,Oklahoma City Thunder,AWAY,97,104,0
+18447752,2026-03-09,10,Golden State Warriors,29,Utah Jazz,AWAY,116,119,0
+18447761,2026-03-10,10,Golden State Warriors,5,Chicago Bulls,HOME,124,130,0
+18447784,2026-03-13,10,Golden State Warriors,18,Minnesota Timberwolves,HOME,117,127,0
+18447566,2026-02-07,11,Houston Rockets,21,Oklahoma City Thunder,AWAY,112,106,1
+18447610,2026-02-19,11,Houston Rockets,4,Charlotte Hornets,AWAY,105,101,1
+18447634,2026-02-21,11,Houston Rockets,20,New York Knicks,AWAY,106,108,0
+18447648,2026-02-23,11,Houston Rockets,29,Utah Jazz,HOME,125,105,1
+18447663,2026-02-25,11,Houston Rockets,26,Sacramento Kings,HOME,128,97,1
+18447670,2026-02-26,11,Houston Rockets,22,Orlando Magic,AWAY,113,108,1
+18447682,2026-02-28,11,Houston Rockets,16,Miami Heat,AWAY,105,115,0
+18447697,2026-03-02,11,Houston Rockets,30,Washington Wizards,AWAY,123,118,1
+18447720,2026-03-05,11,Houston Rockets,10,Golden State Warriors,HOME,113,115,0
+18447728,2026-03-06,11,Houston Rockets,25,Portland Trail Blazers,HOME,106,99,1
+18447745,2026-03-08,11,Houston Rockets,27,San Antonio Spurs,AWAY,120,145,0
+18447758,2026-03-10,11,Houston Rockets,28,Toronto Raptors,HOME,113,99,1
+18447768,2026-03-11,11,Houston Rockets,8,Denver Nuggets,AWAY,93,129,0
+18447782,2026-03-13,11,Houston Rockets,19,New Orleans Pelicans,HOME,107,105,1
+18447613,2026-02-19,12,Indiana Pacers,30,Washington Wizards,AWAY,105,112,0
+18447621,2026-02-20,12,Indiana Pacers,30,Washington Wizards,AWAY,118,131,0
+18447639,2026-02-22,12,Indiana Pacers,7,Dallas Mavericks,HOME,130,134,0
+18447649,2026-02-24,12,Indiana Pacers,23,Philadelphia 76ers,HOME,114,135,0
+18447666,2026-02-26,12,Indiana Pacers,4,Charlotte Hornets,HOME,109,133,0
+18447690,2026-03-01,12,Indiana Pacers,15,Memphis Grizzlies,HOME,106,125,0
+18447716,2026-03-04,12,Indiana Pacers,13,LA Clippers,AWAY,107,130,0
+18447732,2026-03-06,12,Indiana Pacers,14,Los Angeles Lakers,AWAY,117,128,0
+18447747,2026-03-08,12,Indiana Pacers,25,Portland Trail Blazers,AWAY,111,131,0
+18447763,2026-03-10,12,Indiana Pacers,26,Sacramento Kings,AWAY,109,114,0
+18447772,2026-03-12,12,Indiana Pacers,24,Phoenix Suns,HOME,108,123,0
+18447780,2026-03-13,12,Indiana Pacers,20,New York Knicks,HOME,92,101,0
+18447619,2026-02-19,13,LA Clippers,8,Denver Nuggets,HOME,115,114,1
+18447627,2026-02-20,13,LA Clippers,14,Los Angeles Lakers,AWAY,122,125,0
+18447645,2026-02-22,13,LA Clippers,22,Orlando Magic,HOME,109,111,0
+18447675,2026-02-26,13,LA Clippers,18,Minnesota Timberwolves,HOME,88,94,0
+18447695,2026-03-01,13,LA Clippers,19,New Orleans Pelicans,HOME,137,117,1
+18447700,2026-03-02,13,LA Clippers,10,Golden State Warriors,AWAY,114,101,1
+18447716,2026-03-04,13,LA Clippers,12,Indiana Pacers,HOME,130,107,1
+18447731,2026-03-06,13,LA Clippers,27,San Antonio Spurs,AWAY,112,116,0
+18447736,2026-03-07,13,LA Clippers,15,Memphis Grizzlies,AWAY,123,120,1
+18447753,2026-03-09,13,LA Clippers,20,New York Knicks,HOME,126,118,1
+18447770,2026-03-11,13,LA Clippers,18,Minnesota Timberwolves,HOME,153,128,1
+18447786,2026-03-13,13,LA Clippers,5,Chicago Bulls,HOME,119,108,1
+18447793,2026-03-14,13,LA Clippers,26,Sacramento Kings,HOME,109,118,0
+18447571,2026-02-07,14,Los Angeles Lakers,10,Golden State Warriors,HOME,105,99,1
+18447627,2026-02-20,14,Los Angeles Lakers,13,LA Clippers,HOME,125,122,1
+18447641,2026-02-22,14,Los Angeles Lakers,2,Boston Celtics,HOME,89,111,0
+18447658,2026-02-24,14,Los Angeles Lakers,22,Orlando Magic,HOME,109,110,0
+18447673,2026-02-26,14,Los Angeles Lakers,24,Phoenix Suns,AWAY,110,113,0
+18447684,2026-02-28,14,Los Angeles Lakers,10,Golden State Warriors,AWAY,129,101,1
+18447696,2026-03-01,14,Los Angeles Lakers,26,Sacramento Kings,HOME,128,104,1
+18447709,2026-03-03,14,Los Angeles Lakers,19,New Orleans Pelicans,HOME,110,101,1
+18447724,2026-03-05,14,Los Angeles Lakers,8,Denver Nuggets,AWAY,113,120,0
+18447732,2026-03-06,14,Los Angeles Lakers,12,Indiana Pacers,HOME,128,117,1
+18447740,2026-03-08,14,Los Angeles Lakers,20,New York Knicks,HOME,110,97,1
+18447764,2026-03-10,14,Los Angeles Lakers,18,Minnesota Timberwolves,HOME,120,106,1
+18447778,2026-03-12,14,Los Angeles Lakers,5,Chicago Bulls,HOME,142,130,1
+18447792,2026-03-14,14,Los Angeles Lakers,8,Denver Nuggets,HOME,127,125,1
+18447573,2026-02-07,15,Memphis Grizzlies,25,Portland Trail Blazers,AWAY,115,122,0
+18447622,2026-02-20,15,Memphis Grizzlies,29,Utah Jazz,HOME,123,114,1
+18447631,2026-02-21,15,Memphis Grizzlies,16,Miami Heat,AWAY,120,136,0
+18447647,2026-02-23,15,Memphis Grizzlies,26,Sacramento Kings,HOME,114,123,0
+18447662,2026-02-25,15,Memphis Grizzlies,10,Golden State Warriors,HOME,112,133,0
+18447679,2026-02-27,15,Memphis Grizzlies,7,Dallas Mavericks,AWAY,124,105,1
+18447690,2026-03-01,15,Memphis Grizzlies,12,Indiana Pacers,AWAY,125,106,1
+18447708,2026-03-03,15,Memphis Grizzlies,18,Minnesota Timberwolves,AWAY,110,117,0
+18447714,2026-03-04,15,Memphis Grizzlies,25,Portland Trail Blazers,HOME,114,122,0
+18447736,2026-03-07,15,Memphis Grizzlies,13,LA Clippers,HOME,120,123,0
+18447750,2026-03-09,15,Memphis Grizzlies,3,Brooklyn Nets,AWAY,115,126,0
+18447754,2026-03-10,15,Memphis Grizzlies,23,Philadelphia 76ers,AWAY,129,139,0
+18447929,2026-03-12,15,Memphis Grizzlies,7,Dallas Mavericks,HOME,112,120,0
+18447779,2026-03-13,15,Memphis Grizzlies,9,Detroit Pistons,AWAY,110,126,0
+18447623,2026-02-20,16,Miami Heat,1,Atlanta Hawks,AWAY,128,97,1
+18447631,2026-02-21,16,Miami Heat,15,Memphis Grizzlies,HOME,136,120,1
+18447655,2026-02-24,16,Miami Heat,17,Milwaukee Bucks,AWAY,117,128,0
+18447667,2026-02-26,16,Miami Heat,23,Philadelphia 76ers,AWAY,117,124,0
+18447682,2026-02-28,16,Miami Heat,11,Houston Rockets,HOME,115,105,1
+18447704,2026-03-03,16,Miami Heat,3,Brooklyn Nets,HOME,124,98,1
+18447719,2026-03-05,16,Miami Heat,3,Brooklyn Nets,HOME,126,110,1
+18447727,2026-03-06,16,Miami Heat,4,Charlotte Hornets,AWAY,128,120,1
+18447741,2026-03-08,16,Miami Heat,9,Detroit Pistons,HOME,121,110,1
+18447756,2026-03-10,16,Miami Heat,30,Washington Wizards,HOME,150,129,1
+18447775,2026-03-12,16,Miami Heat,17,Milwaukee Bucks,HOME,112,105,1
+18447790,2026-03-14,16,Miami Heat,22,Orlando Magic,HOME,117,121,0
+18447625,2026-02-20,17,Milwaukee Bucks,19,New Orleans Pelicans,AWAY,139,118,1
+18447637,2026-02-22,17,Milwaukee Bucks,28,Toronto Raptors,HOME,94,122,0
+18447655,2026-02-24,17,Milwaukee Bucks,16,Miami Heat,HOME,128,117,1
+18447664,2026-02-25,17,Milwaukee Bucks,6,Cleveland Cavaliers,HOME,118,116,1
+18447678,2026-02-27,17,Milwaukee Bucks,20,New York Knicks,HOME,98,127,0
+18447688,2026-03-01,17,Milwaukee Bucks,5,Chicago Bulls,AWAY,97,120,0
+18447698,2026-03-02,17,Milwaukee Bucks,2,Boston Celtics,HOME,81,108,0
+18447715,2026-03-04,17,Milwaukee Bucks,1,Atlanta Hawks,HOME,113,131,0
+18447737,2026-03-07,17,Milwaukee Bucks,29,Utah Jazz,HOME,113,99,1
+18447744,2026-03-08,17,Milwaukee Bucks,22,Orlando Magic,HOME,91,130,0
+18447759,2026-03-10,17,Milwaukee Bucks,24,Phoenix Suns,HOME,114,129,0
+18447775,2026-03-12,17,Milwaukee Bucks,16,Miami Heat,AWAY,105,112,0
+18447788,2026-03-14,17,Milwaukee Bucks,1,Atlanta Hawks,AWAY,99,122,0
+18447624,2026-02-20,18,Minnesota Timberwolves,7,Dallas Mavericks,HOME,122,111,1
+18447642,2026-02-22,18,Minnesota Timberwolves,23,Philadelphia 76ers,HOME,108,135,0
+18447659,2026-02-24,18,Minnesota Timberwolves,25,Portland Trail Blazers,AWAY,124,121,1
+18447675,2026-02-26,18,Minnesota Timberwolves,13,LA Clippers,AWAY,94,88,1
+18447689,2026-03-01,18,Minnesota Timberwolves,8,Denver Nuggets,AWAY,117,108,1
+18447708,2026-03-03,18,Minnesota Timberwolves,15,Memphis Grizzlies,HOME,117,110,1
+18447721,2026-03-05,18,Minnesota Timberwolves,28,Toronto Raptors,HOME,115,107,1
+18447733,2026-03-07,18,Minnesota Timberwolves,22,Orlando Magic,HOME,92,119,0
+18447764,2026-03-10,18,Minnesota Timberwolves,14,Los Angeles Lakers,AWAY,106,120,0
+18447770,2026-03-11,18,Minnesota Timberwolves,13,LA Clippers,AWAY,128,153,0
+18447784,2026-03-13,18,Minnesota Timberwolves,10,Golden State Warriors,AWAY,127,117,1
+18447625,2026-02-20,19,New Orleans Pelicans,17,Milwaukee Bucks,HOME,118,139,0
+18447630,2026-02-21,19,New Orleans Pelicans,23,Philadelphia 76ers,HOME,126,111,1
+18447656,2026-02-24,19,New Orleans Pelicans,10,Golden State Warriors,HOME,113,109,1
+18447674,2026-02-26,19,New Orleans Pelicans,29,Utah Jazz,AWAY,129,118,1
+18447685,2026-02-28,19,New Orleans Pelicans,29,Utah Jazz,AWAY,115,105,1
+18447695,2026-03-01,19,New Orleans Pelicans,13,LA Clippers,AWAY,117,137,0
+18447709,2026-03-03,19,New Orleans Pelicans,14,Los Angeles Lakers,AWAY,101,110,0
+18447725,2026-03-05,19,New Orleans Pelicans,26,Sacramento Kings,AWAY,133,123,1
+18447730,2026-03-06,19,New Orleans Pelicans,24,Phoenix Suns,AWAY,116,118,0
+18447743,2026-03-08,19,New Orleans Pelicans,30,Washington Wizards,HOME,138,118,1
+18447766,2026-03-11,19,New Orleans Pelicans,28,Toronto Raptors,HOME,122,111,1
+18447782,2026-03-13,19,New Orleans Pelicans,11,Houston Rockets,AWAY,105,107,0
+18447614,2026-02-19,20,New York Knicks,9,Detroit Pistons,HOME,111,126,0
+18447634,2026-02-21,20,New York Knicks,11,Houston Rockets,HOME,108,106,1
+18447643,2026-02-22,20,New York Knicks,5,Chicago Bulls,AWAY,105,99,1
+18447653,2026-02-24,20,New York Knicks,6,Cleveland Cavaliers,AWAY,94,109,0
+18447678,2026-02-27,20,New York Knicks,17,Milwaukee Bucks,AWAY,127,98,1
+18447686,2026-03-01,20,New York Knicks,27,San Antonio Spurs,HOME,114,89,1
+18447705,2026-03-03,20,New York Knicks,28,Toronto Raptors,AWAY,111,95,1
+18447711,2026-03-04,20,New York Knicks,21,Oklahoma City Thunder,HOME,100,103,0
+18447729,2026-03-06,20,New York Knicks,8,Denver Nuggets,AWAY,142,103,1
+18447740,2026-03-08,20,New York Knicks,14,Los Angeles Lakers,AWAY,97,110,0
+18447753,2026-03-09,20,New York Knicks,13,LA Clippers,AWAY,118,126,0
+18447767,2026-03-11,20,New York Knicks,29,Utah Jazz,AWAY,134,117,1
+18447780,2026-03-13,20,New York Knicks,12,Indiana Pacers,AWAY,101,92,1
+18447566,2026-02-07,21,Oklahoma City Thunder,11,Houston Rockets,HOME,106,112,0
+18447626,2026-02-20,21,Oklahoma City Thunder,3,Brooklyn Nets,HOME,105,86,1
+18447635,2026-02-22,21,Oklahoma City Thunder,6,Cleveland Cavaliers,HOME,121,113,1
+18447652,2026-02-24,21,Oklahoma City Thunder,28,Toronto Raptors,AWAY,116,107,1
+18447660,2026-02-25,21,Oklahoma City Thunder,9,Detroit Pistons,AWAY,116,124,0
+18447680,2026-02-27,21,Oklahoma City Thunder,8,Denver Nuggets,HOME,127,121,1
+18447694,2026-03-01,21,Oklahoma City Thunder,7,Dallas Mavericks,AWAY,100,87,1
+18447707,2026-03-03,21,Oklahoma City Thunder,5,Chicago Bulls,AWAY,116,108,1
+18447711,2026-03-04,21,Oklahoma City Thunder,20,New York Knicks,AWAY,103,100,1
+18447738,2026-03-07,21,Oklahoma City Thunder,10,Golden State Warriors,HOME,104,97,1
+18447751,2026-03-09,21,Oklahoma City Thunder,8,Denver Nuggets,HOME,129,126,1
+18447777,2026-03-12,21,Oklahoma City Thunder,2,Boston Celtics,HOME,104,102,1
+18447568,2026-02-07,22,Orlando Magic,29,Utah Jazz,HOME,120,117,1
+18447618,2026-02-19,22,Orlando Magic,26,Sacramento Kings,AWAY,131,94,1
+18447629,2026-02-21,22,Orlando Magic,24,Phoenix Suns,AWAY,110,113,0
+18447645,2026-02-22,22,Orlando Magic,13,LA Clippers,AWAY,111,109,1
+18447658,2026-02-24,22,Orlando Magic,14,Los Angeles Lakers,AWAY,110,109,1
+18447670,2026-02-26,22,Orlando Magic,11,Houston Rockets,HOME,108,113,0
+18447693,2026-03-01,22,Orlando Magic,9,Detroit Pistons,HOME,92,106,0
+18447703,2026-03-03,22,Orlando Magic,30,Washington Wizards,HOME,126,109,1
+18447717,2026-03-05,22,Orlando Magic,7,Dallas Mavericks,HOME,115,114,1
+18447733,2026-03-07,22,Orlando Magic,18,Minnesota Timberwolves,AWAY,119,92,1
+18447744,2026-03-08,22,Orlando Magic,17,Milwaukee Bucks,AWAY,130,91,1
+18447765,2026-03-11,22,Orlando Magic,6,Cleveland Cavaliers,HOME,128,122,1
+18447773,2026-03-12,22,Orlando Magic,30,Washington Wizards,HOME,136,131,1
+18447790,2026-03-14,22,Orlando Magic,16,Miami Heat,AWAY,121,117,1
+18447572,2026-02-07,23,Philadelphia 76ers,24,Phoenix Suns,AWAY,109,103,1
+18447612,2026-02-19,23,Philadelphia 76ers,1,Atlanta Hawks,HOME,107,117,0
+18447630,2026-02-21,23,Philadelphia 76ers,19,New Orleans Pelicans,AWAY,111,126,0
+18447642,2026-02-22,23,Philadelphia 76ers,18,Minnesota Timberwolves,AWAY,135,108,1
+18447649,2026-02-24,23,Philadelphia 76ers,12,Indiana Pacers,AWAY,135,114,1
+18447667,2026-02-26,23,Philadelphia 76ers,16,Miami Heat,HOME,124,117,1
+18447692,2026-03-01,23,Philadelphia 76ers,2,Boston Celtics,AWAY,98,114,0
+18447706,2026-03-03,23,Philadelphia 76ers,27,San Antonio Spurs,HOME,91,131,0
+18447713,2026-03-04,23,Philadelphia 76ers,29,Utah Jazz,HOME,106,102,1
+18447735,2026-03-07,23,Philadelphia 76ers,1,Atlanta Hawks,AWAY,116,125,0
+18447749,2026-03-09,23,Philadelphia 76ers,6,Cleveland Cavaliers,AWAY,101,115,0
+18447754,2026-03-10,23,Philadelphia 76ers,15,Memphis Grizzlies,HOME,139,129,1
+18447771,2026-03-12,23,Philadelphia 76ers,9,Detroit Pistons,AWAY,109,131,0
+18447787,2026-03-14,23,Philadelphia 76ers,3,Brooklyn Nets,HOME,104,97,1
+18447572,2026-02-07,24,Phoenix Suns,23,Philadelphia 76ers,HOME,103,109,0
+18447616,2026-02-19,24,Phoenix Suns,27,San Antonio Spurs,AWAY,94,121,0
+18447629,2026-02-21,24,Phoenix Suns,22,Orlando Magic,HOME,113,110,1
+18447644,2026-02-22,24,Phoenix Suns,25,Portland Trail Blazers,HOME,77,92,0
+18447657,2026-02-24,24,Phoenix Suns,2,Boston Celtics,HOME,81,97,0
+18447673,2026-02-26,24,Phoenix Suns,14,Los Angeles Lakers,HOME,113,110,1
+18447710,2026-03-03,24,Phoenix Suns,26,Sacramento Kings,AWAY,114,103,1
+18447723,2026-03-05,24,Phoenix Suns,5,Chicago Bulls,HOME,103,105,0
+18447730,2026-03-06,24,Phoenix Suns,19,New Orleans Pelicans,HOME,118,116,1
+18447746,2026-03-08,24,Phoenix Suns,4,Charlotte Hornets,HOME,111,99,1
+18447759,2026-03-10,24,Phoenix Suns,17,Milwaukee Bucks,AWAY,129,114,1
+18447772,2026-03-12,24,Phoenix Suns,12,Indiana Pacers,AWAY,123,108,1
+18447781,2026-03-13,24,Phoenix Suns,28,Toronto Raptors,AWAY,115,122,0
+18447573,2026-02-07,25,Portland Trail Blazers,15,Memphis Grizzlies,HOME,122,115,1
+18447628,2026-02-20,25,Portland Trail Blazers,8,Denver Nuggets,HOME,103,157,0
+18447644,2026-02-22,25,Portland Trail Blazers,24,Phoenix Suns,AWAY,92,77,1
+18447659,2026-02-24,25,Portland Trail Blazers,18,Minnesota Timberwolves,HOME,121,124,0
+18447671,2026-02-26,25,Portland Trail Blazers,5,Chicago Bulls,AWAY,121,112,1
+18447681,2026-02-28,25,Portland Trail Blazers,4,Charlotte Hornets,AWAY,93,109,0
+18447691,2026-03-01,25,Portland Trail Blazers,1,Atlanta Hawks,AWAY,101,135,0
+18447714,2026-03-04,25,Portland Trail Blazers,15,Memphis Grizzlies,AWAY,122,114,1
+18447728,2026-03-06,25,Portland Trail Blazers,11,Houston Rockets,AWAY,99,106,0
+18447747,2026-03-08,25,Portland Trail Blazers,12,Indiana Pacers,HOME,131,111,1
+18447762,2026-03-10,25,Portland Trail Blazers,4,Charlotte Hornets,HOME,101,103,0
+18447785,2026-03-13,25,Portland Trail Blazers,29,Utah Jazz,HOME,124,114,1
+18447574,2026-02-07,26,Sacramento Kings,6,Cleveland Cavaliers,HOME,126,132,0
+18447618,2026-02-19,26,Sacramento Kings,22,Orlando Magic,HOME,94,131,0
+18447633,2026-02-21,26,Sacramento Kings,27,San Antonio Spurs,AWAY,122,139,0
+18447647,2026-02-23,26,Sacramento Kings,15,Memphis Grizzlies,AWAY,123,114,1
+18447663,2026-02-25,26,Sacramento Kings,11,Houston Rockets,AWAY,97,128,0
+18447672,2026-02-26,26,Sacramento Kings,7,Dallas Mavericks,AWAY,130,121,1
+18447696,2026-03-01,26,Sacramento Kings,14,Los Angeles Lakers,AWAY,104,128,0
+18447710,2026-03-03,26,Sacramento Kings,24,Phoenix Suns,HOME,103,114,0
+18447725,2026-03-05,26,Sacramento Kings,19,New Orleans Pelicans,HOME,123,133,0
+18447748,2026-03-08,26,Sacramento Kings,5,Chicago Bulls,HOME,126,110,1
+18447763,2026-03-10,26,Sacramento Kings,12,Indiana Pacers,HOME,114,109,1
+18447769,2026-03-11,26,Sacramento Kings,4,Charlotte Hornets,HOME,109,117,0
+18447793,2026-03-14,26,Sacramento Kings,13,LA Clippers,AWAY,118,109,1
+18447567,2026-02-07,27,San Antonio Spurs,7,Dallas Mavericks,HOME,138,125,1
+18447616,2026-02-19,27,San Antonio Spurs,24,Phoenix Suns,HOME,121,94,1
+18447633,2026-02-21,27,San Antonio Spurs,26,Sacramento Kings,HOME,139,122,1
+18447646,2026-02-23,27,San Antonio Spurs,9,Detroit Pistons,AWAY,114,103,1
+18447661,2026-02-25,27,San Antonio Spurs,28,Toronto Raptors,AWAY,110,107,1
+18447669,2026-02-26,27,San Antonio Spurs,3,Brooklyn Nets,AWAY,126,110,1
+18447686,2026-03-01,27,San Antonio Spurs,20,New York Knicks,AWAY,89,114,0
+18447706,2026-03-03,27,San Antonio Spurs,23,Philadelphia 76ers,AWAY,131,91,1
+18447722,2026-03-05,27,San Antonio Spurs,9,Detroit Pistons,HOME,121,106,1
+18447731,2026-03-06,27,San Antonio Spurs,13,LA Clippers,HOME,116,112,1
+18447745,2026-03-08,27,San Antonio Spurs,11,Houston Rockets,HOME,145,120,1
+18447760,2026-03-10,27,San Antonio Spurs,2,Boston Celtics,HOME,125,116,1
+18447776,2026-03-12,27,San Antonio Spurs,8,Denver Nuggets,HOME,131,136,0
+18447791,2026-03-14,27,San Antonio Spurs,4,Charlotte Hornets,HOME,115,102,1
+18447615,2026-02-19,28,Toronto Raptors,5,Chicago Bulls,AWAY,110,101,1
+18447637,2026-02-22,28,Toronto Raptors,17,Milwaukee Bucks,AWAY,122,94,1
+18447652,2026-02-24,28,Toronto Raptors,21,Oklahoma City Thunder,HOME,107,116,0
+18447661,2026-02-25,28,Toronto Raptors,27,San Antonio Spurs,HOME,107,110,0
+18447683,2026-02-28,28,Toronto Raptors,30,Washington Wizards,AWAY,134,125,1
+18447705,2026-03-03,28,Toronto Raptors,20,New York Knicks,HOME,95,111,0
+18447721,2026-03-05,28,Toronto Raptors,18,Minnesota Timberwolves,AWAY,107,115,0
+18447742,2026-03-08,28,Toronto Raptors,7,Dallas Mavericks,HOME,122,92,1
+18447758,2026-03-10,28,Toronto Raptors,11,Houston Rockets,AWAY,99,113,0
+18447766,2026-03-11,28,Toronto Raptors,19,New Orleans Pelicans,AWAY,111,122,0
+18447781,2026-03-13,28,Toronto Raptors,24,Phoenix Suns,HOME,122,115,1
+18447568,2026-02-07,29,Utah Jazz,22,Orlando Magic,AWAY,117,120,0
+18447622,2026-02-20,29,Utah Jazz,15,Memphis Grizzlies,AWAY,114,123,0
+18447648,2026-02-23,29,Utah Jazz,11,Houston Rockets,AWAY,105,125,0
+18447674,2026-02-26,29,Utah Jazz,19,New Orleans Pelicans,HOME,118,129,0
+18447685,2026-02-28,29,Utah Jazz,19,New Orleans Pelicans,HOME,105,115,0
+18447699,2026-03-02,29,Utah Jazz,8,Denver Nuggets,HOME,125,128,0
+18447713,2026-03-04,29,Utah Jazz,23,Philadelphia 76ers,AWAY,102,106,0
+18447718,2026-03-05,29,Utah Jazz,30,Washington Wizards,AWAY,122,112,1
+18447737,2026-03-07,29,Utah Jazz,17,Milwaukee Bucks,AWAY,99,113,0
+18447752,2026-03-09,29,Utah Jazz,10,Golden State Warriors,HOME,119,116,1
+18447767,2026-03-11,29,Utah Jazz,20,New York Knicks,HOME,117,134,0
+18447785,2026-03-13,29,Utah Jazz,25,Portland Trail Blazers,AWAY,114,124,0
+18447565,2026-02-07,30,Washington Wizards,3,Brooklyn Nets,AWAY,113,127,0
+18447613,2026-02-19,30,Washington Wizards,12,Indiana Pacers,HOME,112,105,1
+18447621,2026-02-20,30,Washington Wizards,12,Indiana Pacers,HOME,131,118,1
+18447640,2026-02-22,30,Washington Wizards,4,Charlotte Hornets,HOME,112,129,0
+18447650,2026-02-24,30,Washington Wizards,1,Atlanta Hawks,AWAY,98,119,0
+18447668,2026-02-26,30,Washington Wizards,1,Atlanta Hawks,AWAY,96,126,0
+18447683,2026-02-28,30,Washington Wizards,28,Toronto Raptors,HOME,125,134,0
+18447697,2026-03-02,30,Washington Wizards,11,Houston Rockets,HOME,118,123,0
+18447703,2026-03-03,30,Washington Wizards,22,Orlando Magic,AWAY,109,126,0
+18447718,2026-03-05,30,Washington Wizards,29,Utah Jazz,HOME,112,122,0
+18447743,2026-03-08,30,Washington Wizards,19,New Orleans Pelicans,AWAY,118,138,0
+18447756,2026-03-10,30,Washington Wizards,16,Miami Heat,AWAY,129,150,0
+18447773,2026-03-12,30,Washington Wizards,22,Orlando Magic,AWAY,131,136,0
+18447789,2026-03-14,30,Washington Wizards,2,Boston Celtics,AWAY,100,111,0
