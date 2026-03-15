@@ -12,20 +12,20 @@ def main():
     df = pd.read_csv(IN_PATH)
     df["game_date"] = pd.to_datetime(df["game_date"])
 
-    # Sort per team
+    #Sort per team
     df = df.sort_values(["team_id", "game_date", "game_id"]).reset_index(drop=True)
 
-    # Point differential
+    #Point differential
     df["point_diff"] = df["team_pts"] - df["opp_pts"]
 
-    # Rest days: difference between this game and previous game for same team
+    #Rest days: difference between this game and previous game for same team
     df["prev_game_date"] = df.groupby("team_id")["game_date"].shift(1)
     df["rest_days"] = (df["game_date"] - df["prev_game_date"]).dt.days
 
-    # Back-to-back flag
+    #Back-to-back checker
     df["b2b"] = df["rest_days"].apply(lambda x: 1 if x == 1 else 0)
 
-    # Clean up
+    #Clean up
     df = df.drop(columns=["prev_game_date"])
     df["game_date"] = df["game_date"].dt.strftime("%Y-%m-%d")
 
