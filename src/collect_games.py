@@ -15,10 +15,9 @@ RAW_PATH = os.path.join("data", "raw", "games_raw.csv")
 
 
 def get_target_date() -> str:
-    # Allow date override: python src/collect_games.py 2026-02-01
+    #Allow date override
     if len(sys.argv) >= 2:
         return sys.argv[1]
-    # Default: yesterday
     return (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
 
 
@@ -42,14 +41,13 @@ def fetch_games_for_date(date_str: str) -> list[dict]:
     resp.raise_for_status()
     data = resp.json()
 
-    # Typical format: {"data":[...], "meta":{...}}
     return data.get("data", [])
 
 
 def normalize_games(games: list[dict], date_str: str) -> pd.DataFrame:
     rows = []
     for g in games:
-        # Defensive parsing (field names can differ slightly)
+        #Defensive parsing to handle potential API changes or missing fields
         game_id = g.get("id")
         home = g.get("home_team", {}) or {}
         away = g.get("visitor_team", {}) or g.get("away_team", {}) or {}
@@ -57,7 +55,7 @@ def normalize_games(games: list[dict], date_str: str) -> pd.DataFrame:
         home_pts = g.get("home_team_score")
         away_pts = g.get("visitor_team_score") if "visitor_team_score" in g else g.get("away_team_score")
 
-        # Only keep completed games with scores
+        #Only keep completed games with scores
         if game_id is None or home_pts is None or away_pts is None:
             continue
 
@@ -80,7 +78,7 @@ def append_dedup(df_new: pd.DataFrame, path: str) -> pd.DataFrame:
 
     if os.path.exists(path):
         df_old = pd.read_csv(path)
-        # Combine then drop duplicate game_id
+        #Combine then drop duplicate game_id
         df_all = pd.concat([df_old, df_new], ignore_index=True)
         df_all = df_all.drop_duplicates(subset=["game_id"]).sort_values(["game_date", "game_id"])
     else:
