@@ -11,6 +11,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447757,2026-03-10,1,Atlanta Hawks,7,Dallas Mavericks,HOME,124,112,1,12,3.0,0
 18447774,2026-03-12,1,Atlanta Hawks,3,Brooklyn Nets,HOME,108,97,1,11,2.0,0
 18447788,2026-03-14,1,Atlanta Hawks,17,Milwaukee Bucks,HOME,122,99,1,23,2.0,0
+18447801,2026-03-16,1,Atlanta Hawks,22,Orlando Magic,HOME,124,112,1,12,2.0,0
 18447617,2026-02-19,2,Boston Celtics,10,Golden State Warriors,AWAY,121,110,1,11,,0
 18447641,2026-02-22,2,Boston Celtics,14,Los Angeles Lakers,AWAY,111,89,1,22,3.0,0
 18447657,2026-02-24,2,Boston Celtics,24,Phoenix Suns,AWAY,97,81,1,16,2.0,0
@@ -24,6 +25,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447760,2026-03-10,2,Boston Celtics,27,San Antonio Spurs,AWAY,116,125,0,-9,2.0,0
 18447777,2026-03-12,2,Boston Celtics,21,Oklahoma City Thunder,AWAY,102,104,0,-2,2.0,0
 18447789,2026-03-14,2,Boston Celtics,30,Washington Wizards,HOME,111,100,1,11,2.0,0
+18447804,2026-03-16,2,Boston Celtics,24,Phoenix Suns,HOME,120,112,1,8,2.0,0
 18447565,2026-02-07,3,Brooklyn Nets,30,Washington Wizards,HOME,127,113,1,14,,0
 18447611,2026-02-19,3,Brooklyn Nets,6,Cleveland Cavaliers,AWAY,84,112,0,-28,12.0,0
 18447626,2026-02-20,3,Brooklyn Nets,21,Oklahoma City Thunder,AWAY,86,105,0,-19,1.0,1
@@ -39,6 +41,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447755,2026-03-10,3,Brooklyn Nets,9,Detroit Pistons,HOME,100,138,0,-38,1.0,1
 18447774,2026-03-12,3,Brooklyn Nets,1,Atlanta Hawks,AWAY,97,108,0,-11,2.0,0
 18447787,2026-03-14,3,Brooklyn Nets,23,Philadelphia 76ers,AWAY,97,104,0,-7,2.0,0
+18447803,2026-03-16,3,Brooklyn Nets,25,Portland Trail Blazers,HOME,95,114,0,-19,2.0,0
 18447569,2026-02-07,4,Charlotte Hornets,1,Atlanta Hawks,AWAY,126,119,1,7,,0
 18447610,2026-02-19,4,Charlotte Hornets,11,Houston Rockets,HOME,101,105,0,-4,12.0,0
 18447620,2026-02-20,4,Charlotte Hornets,6,Cleveland Cavaliers,HOME,113,118,0,-5,1.0,1
@@ -53,6 +56,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447762,2026-03-10,4,Charlotte Hornets,25,Portland Trail Blazers,AWAY,103,101,1,2,2.0,0
 18447769,2026-03-11,4,Charlotte Hornets,26,Sacramento Kings,AWAY,117,109,1,8,1.0,1
 18447791,2026-03-14,4,Charlotte Hornets,27,San Antonio Spurs,AWAY,102,115,0,-13,3.0,0
+18447809,2026-03-17,4,Charlotte Hornets,16,Miami Heat,HOME,136,106,1,30,3.0,0
 18447570,2026-02-07,5,Chicago Bulls,8,Denver Nuggets,HOME,120,136,0,-16,,0
 18447615,2026-02-19,5,Chicago Bulls,28,Toronto Raptors,HOME,101,110,0,-9,12.0,0
 18447632,2026-02-21,5,Chicago Bulls,9,Detroit Pistons,HOME,110,126,0,-16,2.0,0
@@ -66,6 +70,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447761,2026-03-10,5,Chicago Bulls,10,Golden State Warriors,AWAY,130,124,1,6,2.0,0
 18447778,2026-03-12,5,Chicago Bulls,14,Los Angeles Lakers,AWAY,130,142,0,-12,2.0,0
 18447786,2026-03-13,5,Chicago Bulls,13,LA Clippers,AWAY,108,119,0,-11,1.0,1
+18447805,2026-03-16,5,Chicago Bulls,15,Memphis Grizzlies,HOME,132,107,1,25,3.0,0
 18447574,2026-02-07,6,Cleveland Cavaliers,26,Sacramento Kings,AWAY,132,126,1,6,,0
 18447611,2026-02-19,6,Cleveland Cavaliers,3,Brooklyn Nets,HOME,112,84,1,28,12.0,0
 18447620,2026-02-20,6,Cleveland Cavaliers,4,Charlotte Hornets,AWAY,118,113,1,5,1.0,1
@@ -79,6 +84,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447749,2026-03-09,6,Cleveland Cavaliers,23,Philadelphia 76ers,HOME,115,101,1,14,1.0,1
 18447765,2026-03-11,6,Cleveland Cavaliers,22,Orlando Magic,AWAY,122,128,0,-6,2.0,0
 18447783,2026-03-13,6,Cleveland Cavaliers,7,Dallas Mavericks,AWAY,138,105,1,33,2.0,0
+18447795,2026-03-15,6,Cleveland Cavaliers,7,Dallas Mavericks,HOME,120,130,0,-10,2.0,0
+18447813,2026-03-17,6,Cleveland Cavaliers,17,Milwaukee Bucks,AWAY,123,116,1,7,2.0,0
 18447567,2026-02-07,7,Dallas Mavericks,27,San Antonio Spurs,AWAY,125,138,0,-13,,0
 18447624,2026-02-20,7,Dallas Mavericks,18,Minnesota Timberwolves,AWAY,111,122,0,-11,13.0,0
 18447639,2026-02-22,7,Dallas Mavericks,12,Indiana Pacers,AWAY,134,130,1,4,2.0,0
@@ -93,6 +100,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447757,2026-03-10,7,Dallas Mavericks,1,Atlanta Hawks,AWAY,112,124,0,-12,2.0,0
 18447929,2026-03-12,7,Dallas Mavericks,15,Memphis Grizzlies,AWAY,120,112,1,8,2.0,0
 18447783,2026-03-13,7,Dallas Mavericks,6,Cleveland Cavaliers,HOME,105,138,0,-33,1.0,1
+18447795,2026-03-15,7,Dallas Mavericks,6,Cleveland Cavaliers,AWAY,130,120,1,10,2.0,0
+18447806,2026-03-16,7,Dallas Mavericks,19,New Orleans Pelicans,AWAY,111,129,0,-18,1.0,1
 18447570,2026-02-07,8,Denver Nuggets,5,Chicago Bulls,AWAY,136,120,1,16,,0
 18447619,2026-02-19,8,Denver Nuggets,13,LA Clippers,AWAY,114,115,0,-1,12.0,0
 18447628,2026-02-20,8,Denver Nuggets,25,Portland Trail Blazers,AWAY,157,103,1,54,1.0,1
@@ -107,6 +116,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447768,2026-03-11,8,Denver Nuggets,11,Houston Rockets,HOME,129,93,1,36,2.0,0
 18447776,2026-03-12,8,Denver Nuggets,27,San Antonio Spurs,AWAY,136,131,1,5,1.0,1
 18447792,2026-03-14,8,Denver Nuggets,14,Los Angeles Lakers,AWAY,125,127,0,-2,2.0,0
+18447815,2026-03-17,8,Denver Nuggets,23,Philadelphia 76ers,HOME,124,96,1,28,3.0,0
 18447614,2026-02-19,9,Detroit Pistons,20,New York Knicks,AWAY,126,111,1,15,,0
 18447632,2026-02-21,9,Detroit Pistons,5,Chicago Bulls,AWAY,126,110,1,16,2.0,0
 18447646,2026-02-23,9,Detroit Pistons,27,San Antonio Spurs,HOME,103,114,0,-11,2.0,0
@@ -120,6 +130,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447755,2026-03-10,9,Detroit Pistons,3,Brooklyn Nets,AWAY,138,100,1,38,2.0,0
 18447771,2026-03-12,9,Detroit Pistons,23,Philadelphia 76ers,HOME,131,109,1,22,2.0,0
 18447779,2026-03-13,9,Detroit Pistons,15,Memphis Grizzlies,HOME,126,110,1,16,1.0,1
+18447796,2026-03-15,9,Detroit Pistons,28,Toronto Raptors,AWAY,108,119,0,-11,2.0,0
+18447811,2026-03-17,9,Detroit Pistons,30,Washington Wizards,AWAY,130,117,1,13,2.0,0
 18447571,2026-02-07,10,Golden State Warriors,14,Los Angeles Lakers,AWAY,99,105,0,-6,,0
 18447617,2026-02-19,10,Golden State Warriors,2,Boston Celtics,HOME,110,121,0,-11,12.0,0
 18447638,2026-02-22,10,Golden State Warriors,8,Denver Nuggets,HOME,128,117,1,11,3.0,0
@@ -132,6 +144,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447752,2026-03-09,10,Golden State Warriors,29,Utah Jazz,AWAY,116,119,0,-3,2.0,0
 18447761,2026-03-10,10,Golden State Warriors,5,Chicago Bulls,HOME,124,130,0,-6,1.0,1
 18447784,2026-03-13,10,Golden State Warriors,18,Minnesota Timberwolves,HOME,117,127,0,-10,3.0,0
+18447799,2026-03-15,10,Golden State Warriors,20,New York Knicks,AWAY,107,110,0,-3,2.0,0
+18447802,2026-03-16,10,Golden State Warriors,30,Washington Wizards,AWAY,125,117,1,8,1.0,1
 18447566,2026-02-07,11,Houston Rockets,21,Oklahoma City Thunder,AWAY,112,106,1,6,,0
 18447610,2026-02-19,11,Houston Rockets,4,Charlotte Hornets,AWAY,105,101,1,4,12.0,0
 18447634,2026-02-21,11,Houston Rockets,20,New York Knicks,AWAY,106,108,0,-2,2.0,0
@@ -146,6 +160,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447758,2026-03-10,11,Houston Rockets,28,Toronto Raptors,HOME,113,99,1,14,2.0,0
 18447768,2026-03-11,11,Houston Rockets,8,Denver Nuggets,AWAY,93,129,0,-36,1.0,1
 18447782,2026-03-13,11,Houston Rockets,19,New Orleans Pelicans,HOME,107,105,1,2,2.0,0
+18447807,2026-03-16,11,Houston Rockets,14,Los Angeles Lakers,HOME,92,100,0,-8,3.0,0
 18447613,2026-02-19,12,Indiana Pacers,30,Washington Wizards,AWAY,105,112,0,-7,,0
 18447621,2026-02-20,12,Indiana Pacers,30,Washington Wizards,AWAY,118,131,0,-13,1.0,1
 18447639,2026-02-22,12,Indiana Pacers,7,Dallas Mavericks,HOME,130,134,0,-4,2.0,0
@@ -158,6 +173,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447763,2026-03-10,12,Indiana Pacers,26,Sacramento Kings,AWAY,109,114,0,-5,2.0,0
 18447772,2026-03-12,12,Indiana Pacers,24,Phoenix Suns,HOME,108,123,0,-15,2.0,0
 18447780,2026-03-13,12,Indiana Pacers,20,New York Knicks,HOME,92,101,0,-9,1.0,1
+18447797,2026-03-15,12,Indiana Pacers,17,Milwaukee Bucks,AWAY,123,134,0,-11,2.0,0
+18447812,2026-03-17,12,Indiana Pacers,20,New York Knicks,AWAY,110,136,0,-26,2.0,0
 18447619,2026-02-19,13,LA Clippers,8,Denver Nuggets,HOME,115,114,1,1,,0
 18447627,2026-02-20,13,LA Clippers,14,Los Angeles Lakers,AWAY,122,125,0,-3,1.0,1
 18447645,2026-02-22,13,LA Clippers,22,Orlando Magic,HOME,109,111,0,-2,2.0,0
@@ -171,6 +188,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447770,2026-03-11,13,LA Clippers,18,Minnesota Timberwolves,HOME,153,128,1,25,2.0,0
 18447786,2026-03-13,13,LA Clippers,5,Chicago Bulls,HOME,119,108,1,11,2.0,0
 18447793,2026-03-14,13,LA Clippers,26,Sacramento Kings,HOME,109,118,0,-9,1.0,1
+18447808,2026-03-16,13,LA Clippers,27,San Antonio Spurs,HOME,115,119,0,-4,2.0,0
 18447571,2026-02-07,14,Los Angeles Lakers,10,Golden State Warriors,HOME,105,99,1,6,,0
 18447627,2026-02-20,14,Los Angeles Lakers,13,LA Clippers,HOME,125,122,1,3,13.0,0
 18447641,2026-02-22,14,Los Angeles Lakers,2,Boston Celtics,HOME,89,111,0,-22,2.0,0
@@ -185,6 +203,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447764,2026-03-10,14,Los Angeles Lakers,18,Minnesota Timberwolves,HOME,120,106,1,14,2.0,0
 18447778,2026-03-12,14,Los Angeles Lakers,5,Chicago Bulls,HOME,142,130,1,12,2.0,0
 18447792,2026-03-14,14,Los Angeles Lakers,8,Denver Nuggets,HOME,127,125,1,2,2.0,0
+18447807,2026-03-16,14,Los Angeles Lakers,11,Houston Rockets,AWAY,100,92,1,8,2.0,0
 18447573,2026-02-07,15,Memphis Grizzlies,25,Portland Trail Blazers,AWAY,115,122,0,-7,,0
 18447622,2026-02-20,15,Memphis Grizzlies,29,Utah Jazz,HOME,123,114,1,9,13.0,0
 18447631,2026-02-21,15,Memphis Grizzlies,16,Miami Heat,AWAY,120,136,0,-16,1.0,1
@@ -199,6 +218,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447754,2026-03-10,15,Memphis Grizzlies,23,Philadelphia 76ers,AWAY,129,139,0,-10,1.0,1
 18447929,2026-03-12,15,Memphis Grizzlies,7,Dallas Mavericks,HOME,112,120,0,-8,2.0,0
 18447779,2026-03-13,15,Memphis Grizzlies,9,Detroit Pistons,AWAY,110,126,0,-16,1.0,1
+18447805,2026-03-16,15,Memphis Grizzlies,5,Chicago Bulls,AWAY,107,132,0,-25,3.0,0
 18447623,2026-02-20,16,Miami Heat,1,Atlanta Hawks,AWAY,128,97,1,31,,0
 18447631,2026-02-21,16,Miami Heat,15,Memphis Grizzlies,HOME,136,120,1,16,1.0,1
 18447655,2026-02-24,16,Miami Heat,17,Milwaukee Bucks,AWAY,117,128,0,-11,3.0,0
@@ -211,6 +231,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447756,2026-03-10,16,Miami Heat,30,Washington Wizards,HOME,150,129,1,21,2.0,0
 18447775,2026-03-12,16,Miami Heat,17,Milwaukee Bucks,HOME,112,105,1,7,2.0,0
 18447790,2026-03-14,16,Miami Heat,22,Orlando Magic,HOME,117,121,0,-4,2.0,0
+18447809,2026-03-17,16,Miami Heat,4,Charlotte Hornets,AWAY,106,136,0,-30,3.0,0
 18447625,2026-02-20,17,Milwaukee Bucks,19,New Orleans Pelicans,AWAY,139,118,1,21,,0
 18447637,2026-02-22,17,Milwaukee Bucks,28,Toronto Raptors,HOME,94,122,0,-28,2.0,0
 18447655,2026-02-24,17,Milwaukee Bucks,16,Miami Heat,HOME,128,117,1,11,2.0,0
@@ -224,6 +245,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447759,2026-03-10,17,Milwaukee Bucks,24,Phoenix Suns,HOME,114,129,0,-15,2.0,0
 18447775,2026-03-12,17,Milwaukee Bucks,16,Miami Heat,AWAY,105,112,0,-7,2.0,0
 18447788,2026-03-14,17,Milwaukee Bucks,1,Atlanta Hawks,AWAY,99,122,0,-23,2.0,0
+18447797,2026-03-15,17,Milwaukee Bucks,12,Indiana Pacers,HOME,134,123,1,11,1.0,1
+18447813,2026-03-17,17,Milwaukee Bucks,6,Cleveland Cavaliers,HOME,116,123,0,-7,2.0,0
 18447624,2026-02-20,18,Minnesota Timberwolves,7,Dallas Mavericks,HOME,122,111,1,11,,0
 18447642,2026-02-22,18,Minnesota Timberwolves,23,Philadelphia 76ers,HOME,108,135,0,-27,2.0,0
 18447659,2026-02-24,18,Minnesota Timberwolves,25,Portland Trail Blazers,AWAY,124,121,1,3,2.0,0
@@ -235,6 +258,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447764,2026-03-10,18,Minnesota Timberwolves,14,Los Angeles Lakers,AWAY,106,120,0,-14,3.0,0
 18447770,2026-03-11,18,Minnesota Timberwolves,13,LA Clippers,AWAY,128,153,0,-25,1.0,1
 18447784,2026-03-13,18,Minnesota Timberwolves,10,Golden State Warriors,AWAY,127,117,1,10,2.0,0
+18447794,2026-03-15,18,Minnesota Timberwolves,21,Oklahoma City Thunder,AWAY,103,116,0,-13,2.0,0
+18447814,2026-03-17,18,Minnesota Timberwolves,24,Phoenix Suns,HOME,116,104,1,12,2.0,0
 18447625,2026-02-20,19,New Orleans Pelicans,17,Milwaukee Bucks,HOME,118,139,0,-21,,0
 18447630,2026-02-21,19,New Orleans Pelicans,23,Philadelphia 76ers,HOME,126,111,1,15,1.0,1
 18447656,2026-02-24,19,New Orleans Pelicans,10,Golden State Warriors,HOME,113,109,1,4,3.0,0
@@ -247,6 +272,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447743,2026-03-08,19,New Orleans Pelicans,30,Washington Wizards,HOME,138,118,1,20,2.0,0
 18447766,2026-03-11,19,New Orleans Pelicans,28,Toronto Raptors,HOME,122,111,1,11,3.0,0
 18447782,2026-03-13,19,New Orleans Pelicans,11,Houston Rockets,AWAY,105,107,0,-2,2.0,0
+18447806,2026-03-16,19,New Orleans Pelicans,7,Dallas Mavericks,HOME,129,111,1,18,3.0,0
 18447614,2026-02-19,20,New York Knicks,9,Detroit Pistons,HOME,111,126,0,-15,,0
 18447634,2026-02-21,20,New York Knicks,11,Houston Rockets,HOME,108,106,1,2,2.0,0
 18447643,2026-02-22,20,New York Knicks,5,Chicago Bulls,AWAY,105,99,1,6,1.0,1
@@ -260,6 +286,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447753,2026-03-09,20,New York Knicks,13,LA Clippers,AWAY,118,126,0,-8,1.0,1
 18447767,2026-03-11,20,New York Knicks,29,Utah Jazz,AWAY,134,117,1,17,2.0,0
 18447780,2026-03-13,20,New York Knicks,12,Indiana Pacers,AWAY,101,92,1,9,2.0,0
+18447799,2026-03-15,20,New York Knicks,10,Golden State Warriors,HOME,110,107,1,3,2.0,0
+18447812,2026-03-17,20,New York Knicks,12,Indiana Pacers,HOME,136,110,1,26,2.0,0
 18447566,2026-02-07,21,Oklahoma City Thunder,11,Houston Rockets,HOME,106,112,0,-6,,0
 18447626,2026-02-20,21,Oklahoma City Thunder,3,Brooklyn Nets,HOME,105,86,1,19,13.0,0
 18447635,2026-02-22,21,Oklahoma City Thunder,6,Cleveland Cavaliers,HOME,121,113,1,8,2.0,0
@@ -272,6 +300,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447738,2026-03-07,21,Oklahoma City Thunder,10,Golden State Warriors,HOME,104,97,1,7,3.0,0
 18447751,2026-03-09,21,Oklahoma City Thunder,8,Denver Nuggets,HOME,129,126,1,3,2.0,0
 18447777,2026-03-12,21,Oklahoma City Thunder,2,Boston Celtics,HOME,104,102,1,2,3.0,0
+18447794,2026-03-15,21,Oklahoma City Thunder,18,Minnesota Timberwolves,HOME,116,103,1,13,3.0,0
+18447810,2026-03-17,21,Oklahoma City Thunder,22,Orlando Magic,AWAY,113,108,1,5,2.0,0
 18447568,2026-02-07,22,Orlando Magic,29,Utah Jazz,HOME,120,117,1,3,,0
 18447618,2026-02-19,22,Orlando Magic,26,Sacramento Kings,AWAY,131,94,1,37,12.0,0
 18447629,2026-02-21,22,Orlando Magic,24,Phoenix Suns,AWAY,110,113,0,-3,2.0,0
@@ -286,6 +316,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447765,2026-03-11,22,Orlando Magic,6,Cleveland Cavaliers,HOME,128,122,1,6,3.0,0
 18447773,2026-03-12,22,Orlando Magic,30,Washington Wizards,HOME,136,131,1,5,1.0,1
 18447790,2026-03-14,22,Orlando Magic,16,Miami Heat,AWAY,121,117,1,4,2.0,0
+18447801,2026-03-16,22,Orlando Magic,1,Atlanta Hawks,AWAY,112,124,0,-12,2.0,0
+18447810,2026-03-17,22,Orlando Magic,21,Oklahoma City Thunder,HOME,108,113,0,-5,1.0,1
 18447572,2026-02-07,23,Philadelphia 76ers,24,Phoenix Suns,AWAY,109,103,1,6,,0
 18447612,2026-02-19,23,Philadelphia 76ers,1,Atlanta Hawks,HOME,107,117,0,-10,12.0,0
 18447630,2026-02-21,23,Philadelphia 76ers,19,New Orleans Pelicans,AWAY,111,126,0,-15,2.0,0
@@ -300,6 +332,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447754,2026-03-10,23,Philadelphia 76ers,15,Memphis Grizzlies,HOME,139,129,1,10,1.0,1
 18447771,2026-03-12,23,Philadelphia 76ers,9,Detroit Pistons,AWAY,109,131,0,-22,2.0,0
 18447787,2026-03-14,23,Philadelphia 76ers,3,Brooklyn Nets,HOME,104,97,1,7,2.0,0
+18447798,2026-03-15,23,Philadelphia 76ers,25,Portland Trail Blazers,HOME,109,103,1,6,1.0,1
+18447815,2026-03-17,23,Philadelphia 76ers,8,Denver Nuggets,AWAY,96,124,0,-28,2.0,0
 18447572,2026-02-07,24,Phoenix Suns,23,Philadelphia 76ers,HOME,103,109,0,-6,,0
 18447616,2026-02-19,24,Phoenix Suns,27,San Antonio Spurs,AWAY,94,121,0,-27,12.0,0
 18447629,2026-02-21,24,Phoenix Suns,22,Orlando Magic,HOME,113,110,1,3,2.0,0
@@ -313,6 +347,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447759,2026-03-10,24,Phoenix Suns,17,Milwaukee Bucks,AWAY,129,114,1,15,2.0,0
 18447772,2026-03-12,24,Phoenix Suns,12,Indiana Pacers,AWAY,123,108,1,15,2.0,0
 18447781,2026-03-13,24,Phoenix Suns,28,Toronto Raptors,AWAY,115,122,0,-7,1.0,1
+18447804,2026-03-16,24,Phoenix Suns,2,Boston Celtics,AWAY,112,120,0,-8,3.0,0
+18447814,2026-03-17,24,Phoenix Suns,18,Minnesota Timberwolves,AWAY,104,116,0,-12,1.0,1
 18447573,2026-02-07,25,Portland Trail Blazers,15,Memphis Grizzlies,HOME,122,115,1,7,,0
 18447628,2026-02-20,25,Portland Trail Blazers,8,Denver Nuggets,HOME,103,157,0,-54,13.0,0
 18447644,2026-02-22,25,Portland Trail Blazers,24,Phoenix Suns,AWAY,92,77,1,15,2.0,0
@@ -325,6 +361,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447747,2026-03-08,25,Portland Trail Blazers,12,Indiana Pacers,HOME,131,111,1,20,2.0,0
 18447762,2026-03-10,25,Portland Trail Blazers,4,Charlotte Hornets,HOME,101,103,0,-2,2.0,0
 18447785,2026-03-13,25,Portland Trail Blazers,29,Utah Jazz,HOME,124,114,1,10,3.0,0
+18447798,2026-03-15,25,Portland Trail Blazers,23,Philadelphia 76ers,AWAY,103,109,0,-6,2.0,0
+18447803,2026-03-16,25,Portland Trail Blazers,3,Brooklyn Nets,AWAY,114,95,1,19,1.0,1
 18447574,2026-02-07,26,Sacramento Kings,6,Cleveland Cavaliers,HOME,126,132,0,-6,,0
 18447618,2026-02-19,26,Sacramento Kings,22,Orlando Magic,HOME,94,131,0,-37,12.0,0
 18447633,2026-02-21,26,Sacramento Kings,27,San Antonio Spurs,AWAY,122,139,0,-17,2.0,0
@@ -338,6 +376,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447763,2026-03-10,26,Sacramento Kings,12,Indiana Pacers,HOME,114,109,1,5,2.0,0
 18447769,2026-03-11,26,Sacramento Kings,4,Charlotte Hornets,HOME,109,117,0,-8,1.0,1
 18447793,2026-03-14,26,Sacramento Kings,13,LA Clippers,AWAY,118,109,1,9,3.0,0
+18447800,2026-03-15,26,Sacramento Kings,29,Utah Jazz,HOME,116,111,1,5,1.0,1
+18447816,2026-03-17,26,Sacramento Kings,27,San Antonio Spurs,HOME,104,132,0,-28,2.0,0
 18447567,2026-02-07,27,San Antonio Spurs,7,Dallas Mavericks,HOME,138,125,1,13,,0
 18447616,2026-02-19,27,San Antonio Spurs,24,Phoenix Suns,HOME,121,94,1,27,12.0,0
 18447633,2026-02-21,27,San Antonio Spurs,26,Sacramento Kings,HOME,139,122,1,17,2.0,0
@@ -352,6 +392,8 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447760,2026-03-10,27,San Antonio Spurs,2,Boston Celtics,HOME,125,116,1,9,2.0,0
 18447776,2026-03-12,27,San Antonio Spurs,8,Denver Nuggets,HOME,131,136,0,-5,2.0,0
 18447791,2026-03-14,27,San Antonio Spurs,4,Charlotte Hornets,HOME,115,102,1,13,2.0,0
+18447808,2026-03-16,27,San Antonio Spurs,13,LA Clippers,AWAY,119,115,1,4,2.0,0
+18447816,2026-03-17,27,San Antonio Spurs,26,Sacramento Kings,AWAY,132,104,1,28,1.0,1
 18447615,2026-02-19,28,Toronto Raptors,5,Chicago Bulls,AWAY,110,101,1,9,,0
 18447637,2026-02-22,28,Toronto Raptors,17,Milwaukee Bucks,AWAY,122,94,1,28,3.0,0
 18447652,2026-02-24,28,Toronto Raptors,21,Oklahoma City Thunder,HOME,107,116,0,-9,2.0,0
@@ -363,6 +405,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447758,2026-03-10,28,Toronto Raptors,11,Houston Rockets,AWAY,99,113,0,-14,2.0,0
 18447766,2026-03-11,28,Toronto Raptors,19,New Orleans Pelicans,AWAY,111,122,0,-11,1.0,1
 18447781,2026-03-13,28,Toronto Raptors,24,Phoenix Suns,HOME,122,115,1,7,2.0,0
+18447796,2026-03-15,28,Toronto Raptors,9,Detroit Pistons,HOME,119,108,1,11,2.0,0
 18447568,2026-02-07,29,Utah Jazz,22,Orlando Magic,AWAY,117,120,0,-3,,0
 18447622,2026-02-20,29,Utah Jazz,15,Memphis Grizzlies,AWAY,114,123,0,-9,13.0,0
 18447648,2026-02-23,29,Utah Jazz,11,Houston Rockets,AWAY,105,125,0,-20,3.0,0
@@ -375,6 +418,7 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447752,2026-03-09,29,Utah Jazz,10,Golden State Warriors,HOME,119,116,1,3,2.0,0
 18447767,2026-03-11,29,Utah Jazz,20,New York Knicks,HOME,117,134,0,-17,2.0,0
 18447785,2026-03-13,29,Utah Jazz,25,Portland Trail Blazers,AWAY,114,124,0,-10,2.0,0
+18447800,2026-03-15,29,Utah Jazz,26,Sacramento Kings,AWAY,111,116,0,-5,2.0,0
 18447565,2026-02-07,30,Washington Wizards,3,Brooklyn Nets,AWAY,113,127,0,-14,,0
 18447613,2026-02-19,30,Washington Wizards,12,Indiana Pacers,HOME,112,105,1,7,12.0,0
 18447621,2026-02-20,30,Washington Wizards,12,Indiana Pacers,HOME,131,118,1,13,1.0,1
@@ -389,3 +433,5 @@ game_id,game_date,team_id,team_name,opponent_id,opponent_name,home_away,team_pts
 18447756,2026-03-10,30,Washington Wizards,16,Miami Heat,AWAY,129,150,0,-21,2.0,0
 18447773,2026-03-12,30,Washington Wizards,22,Orlando Magic,AWAY,131,136,0,-5,2.0,0
 18447789,2026-03-14,30,Washington Wizards,2,Boston Celtics,AWAY,100,111,0,-11,2.0,0
+18447802,2026-03-16,30,Washington Wizards,10,Golden State Warriors,HOME,117,125,0,-8,2.0,0
+18447811,2026-03-17,30,Washington Wizards,9,Detroit Pistons,HOME,117,130,0,-13,1.0,1
